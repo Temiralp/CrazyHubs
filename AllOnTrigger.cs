@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//Test Trigger
 public class AllOnTrigger : MonoBehaviour
 {
     [Header("Insert these objects into the script in the prefab")]
